@@ -66,15 +66,6 @@ We are a registered society of the university, approved by the Department of Com
 </table>
 
 Recruitment runs at the start of every semester and closes before the ice breaking session.
-
-```mermaid
-flowchart LR
-    A[Semester starts] --> B[Recruitment opens]
-    B --> C[Recruitment closes]
-    C --> D[Ice breaking session]
-    D --> E[Activities run all semester]
-```
-
 Follow us on [Instagram](https://instagram.com/cses.isb) and [LinkedIn](https://www.linkedin.com/company/comsats-software-engineering-society/) so you do not miss the next drive. The full details live on our [website](https://cses.is-cool.dev).
 
 ## Our website
